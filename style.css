@@ -44,6 +44,7 @@ section p{
 }
 .profile h1{
     font-size: 50px;
+    color: red;
 }
 header section img{
     border: 20px solid #eff4f3;
